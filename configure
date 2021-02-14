@@ -3160,6 +3160,8 @@ EOF
             cat >> confdefs.h <<\EOF
 #define _CRT_NONSTDC_NO_WARNINGS 1
 EOF
+	elif test "$_CC_MAJOR_VERSION" = "16"; then
+            _CC_SUITE=10
 
         else
             { echo "configure: error: This version of the MSVC compiler, $CC_VERSION , is unsupported." 1>&2; exit 1; }
