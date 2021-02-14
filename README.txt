@@ -7,6 +7,10 @@ For information on how to build Mozilla from the source code, see:
 
     https://developer.mozilla.org/en-US/docs/Archive/Mozilla/Windows_Build_Prerequisites_(1.9.0_and_1.9.1_branches)
 
+    Recommended Build tools include: Visual Studio 2003, MozillaBuild 1.2, Windows Server 2003 R2 Platform SDK
+
+    Optional build tools include: Visual Studio 2005, Visual Studio 2008 (2010 works, but is officially unsupported, test branch available), MozillaBuild 1.5, Windows Vista SDK (Includes Visual C++ 2005), Windows 7 SDK (Includes Visual C++ 2010).
+
 To have your bug fix / feature added to Mozilla, you should create a patch and
 submit it to Bugzilla (http://bugzilla.mozilla.org). Instructions are at:
 
