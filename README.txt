@@ -5,7 +5,7 @@ project pages with documentation can be found at:
 
 For information on how to build Mozilla from the source code, see:
 
-    http://developer.mozilla.org/en/docs/Build_Documentation
+    https://developer.mozilla.org/en-US/docs/Archive/Mozilla/Windows_Build_Prerequisites_(1.9.0_and_1.9.1_branches)
 
 To have your bug fix / feature added to Mozilla, you should create a patch and
 submit it to Bugzilla (http://bugzilla.mozilla.org). Instructions are at:
